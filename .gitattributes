@@ -1,0 +1,5 @@
+# Definir arquivos de configuração para sempre usar LF
+*.js text eol=lf
+*.ts text eol=lf
+*.json text eol=lf
+*.env.example text eol=lf
