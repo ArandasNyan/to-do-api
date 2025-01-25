@@ -1,0 +1,7 @@
+# Ignorar arquivos de variáveis de ambiente
+.env.development
+.env.production
+
+# Ignorar pastas de dependências e build
+node_modules/
+dist/
